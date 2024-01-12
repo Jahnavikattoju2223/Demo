@@ -1,4 +1,7 @@
 import streamlit as st
-st.header('sunny')
-st.write('sunny')
-st.video('https://youtu.be/Ldn11dMHTJ8?si=kmDAPaJK6SXR1Xn0')
+st.header('odiyamma')
+st.write('Druv')
+st.image('https://i.pinimg.com/originals/83/59/96/8359967dfe0b0dd88d61b05210c58115.jpg')
+st.header('Druv')
+st.write('Druv')
+st.video('https://youtube.com/shorts/cmwpHsqoVVc?si=5sd-g49mE9gdFLsx')
